@@ -21,8 +21,8 @@ This project is an Android application designed for palmprint recognition. The a
 1. **Clone the repository:**
 
    ```
-   sh复制代码git clone https://github.com/yourusername/palmprint-android-app.git
-   cd palmprint-android-app
+   git clone https://github.com/IoNaNO/palm-android.git
+   cd palm-android
    ```
 
 2. **Open in Android Studio:**
